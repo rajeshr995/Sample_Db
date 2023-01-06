@@ -1,0 +1,1 @@
+Create Table Streamline(id Int, Nam varchar(2))
